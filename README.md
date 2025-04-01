@@ -1,4 +1,4 @@
-#TestelkaStoreSeleniumJS
+# TestelkaStoreSeleniumJS
 
 Selenium test suite on basic e-commerce web app functionality (various product addition to / quantity update / removal from shopping cart) The test suite captures screenshots at the end of test case run (for logging purposes).
 
