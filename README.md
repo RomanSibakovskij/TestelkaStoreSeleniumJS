@@ -3,13 +3,12 @@
 Selenium test suite on basic e-commerce web app functionality (various product addition to / quantity update / removal from shopping cart) The test suite captures screenshots at the end of test case run (for logging purposes).
 
 #Tech Requirements:
- 1.Java JDK 8 or higher 
  
- 2.Node.js
+ 1.Node.js
 
- 3.Jest
+ 2.Jest
  
- 4.IntelliJ IDEA (or another IDE that supports Java and Maven)
+ 3.IntelliJ IDEA (or another IDE)
 
 #Setup
 
